@@ -31,11 +31,8 @@ class interviewkeeda extends Component {
        <View style={styles.container}>
           <HeaderComponent indexThis={this}/>
             <View style={styles.mainContent} >
-                <Text style={styles.welcome}>
-                  Welcome to React Native!
-                </Text>
-                <Text style={styles.instructions}>
-                  To get started, edit index.android.js
+                <Text>
+                  Sample android app with navigation drawer.
                 </Text>
 
             </View>
